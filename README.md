@@ -1,5 +1,8 @@
-# Clasificacion-de-tumores-cerebrales-usando-imagenes-con-CNN
-Clasificación de Tumores Cerebrales Usando Imágenes con Redes Neuronales Convolucionales (CNN)
+# Brain Tumor Classification Using Images with Convolutional Neural Networks (CNN)
+
+## Autor
+Andres Martin Bañuelos Elias
+Ingeniería Biomédica, Departamento de Ingeniería Eléctrica y Electrónica, Tecnológico Nacional de México/IT Tijuana. Blvd. Alberto Limón Padilla s/n, Tijuana, C.P. 22454, B.C., México. Email: l21212142@tectijuana.edu.mx
 
 # Abstract
 
@@ -11,4 +14,5 @@ Unlike traditional approaches that use separate models for each classification t
 
 The dataset used in this project is publicly available and contains MRI images labeled by tumor types (glioma, meningioma, pituitary tumor, and no tumor). It can be accessed through the following link:
 
-🔗 Brain Tumor MRI Dataset on Kaggle
+Brain Tumor MRI Dataset on Kaggle:
+https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset?resource=download
